@@ -1,14 +1,3 @@
-# Project Title
-
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
-
-## About <a name = "About"></a>
-
 # bruteforce
  A simple bruteforce tool for pentest
 
@@ -28,3 +17,4 @@ TO DO:
 
 """
 
+Usage

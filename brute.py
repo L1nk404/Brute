@@ -1,15 +1,3 @@
-"""
-TO DO:
-
-1) Put a output options
-2) Put progress percentage (checked)
-3) Put animated text.
-4) Improve cracking function
-
-
-
-"""
-
 
 import requests  # It allows to automate de process of sending POST and GET request.
 import termcolor
